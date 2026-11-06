@@ -20,5 +20,5 @@ Estudante de Análise e Desenvolvimento de Sistemas (UDF) e Jovem Aprendiz. Tenh
 
 ## Conecte-se Comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/maria-eduarda-rabelo-682313376?trk=contact-info)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-rabelo-682313376?trk=contact-info)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dudarabelovasco@gmail.com)
