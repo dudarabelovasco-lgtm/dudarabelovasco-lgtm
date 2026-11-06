@@ -1,16 +1,22 @@
-## Hi there 👋
+# Oi! Sou a Maria Eduarda
 
-<!--
-**dudarabelovasco-lgtm/dudarabelovasco-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Análise e Desenvolvimento de Sistemas (UDF) e Jovem Aprendiz. Tenho interesse na área de desenvolvimento de software, desenvolvimento backend e análise de sistemas. Atualmente estou em fase de aprendizado, desenvolvendo meus conhecimentos em programação, com foco em Python, C, lógica de programação e arquitetura de dados. Meu objetivo é aprimorar minhas habilidades técnicas, desenvolver projetos práticos e construir minha trajetória profissional na área de Tecnologia da Informação.
 
-Here are some ideas to get you started:
+## Ferramentas e tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Python
+* C
+* Git
+* GitHub
+* Lógica de Programação
+
+## Projetos
+
+* Projeto Acadêmico — Modelagem de Banco de Dados Relacional
+* Aplicação Console — ZooLogic Terminal App
+* Modelagem de Requisitos — Organiza+ App Layout
+
+## Contato
+
+* GitHub: https://github.com/seu-usuario
+* LinkedIn: [https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/seu-perfil)
